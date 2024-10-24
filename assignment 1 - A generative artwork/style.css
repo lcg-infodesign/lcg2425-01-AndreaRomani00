@@ -1,0 +1,13 @@
+
+/*il padding così realizzato non è responsive ma, quantomeno su desktop funziona */
+
+html, body {
+  margin: 0;
+  padding-top: 3%;
+  padding-left: 17.5%;
+
+}
+
+canvas {
+  display: block;
+}
